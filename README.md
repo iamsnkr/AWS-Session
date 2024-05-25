@@ -73,8 +73,8 @@ npm run start
 
 
 
-Stripe Payment Setup for the Project
-
+**Stripe Payment Setup for the Project**
+https://docs.google.com/document/d/1n0DH0Snz_s3BCfUUXkGEo_Pmczuefy6MxnlJmAJf73s/edit?pli=1#heading=h.rvpoiok2fx0r
 Step 1
 Create a new account on Stripe and login to the dashboard.
 Step 2
